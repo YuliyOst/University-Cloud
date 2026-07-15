@@ -5,9 +5,7 @@ Proprietary architecture for a secure university and regional cloud.
 Technical implementation and security configurations are not disclosed for security reasons.
 
 🎥 Project Presentation
-Click the button below to watch the interactive architecture walkthrough:
-
-▶️ Watch Video Presentation (MP4)
+To view the interactive architecture walkthrough, please download the video file attached to this repository:👉 university_cloud.mp4
 
 Business Essence
 Transforming the university's non-functional assets (basement premises) into a highly profitable dual-purpose facility:

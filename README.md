@@ -3,9 +3,8 @@ StatusSecurityArchitecture
 
 Proprietary architecture for a secure university and regional cloud.
 Technical implementation and security configurations are not disclosed for security reasons.
-
 🎥 Project Presentation
-👉 Watch the interactive video [walkthrough](https://youtu.be/QTX6tXEcpQ0) 
+👉 Watch the interactive video walkthrough
 
 Business Essence
 Transforming the university's non-functional assets (basement premises) into a highly profitable dual-purpose facility:
@@ -13,7 +12,7 @@ Transforming the university's non-functional assets (basement premises) into a h
 Physical Component: A reinforced civil defense shelter.
 Digital Component: A backup Data Center and a reliable cloud Hub.
 Value Proposition
-Cost Optimization: Removing "dead" square meters from the balance sheet and eliminating costs for pirated software via VDI implementation.
+Cost Optimization: Removing "dead" square meters from the balance sheet and eliminating costs for pirated software via VDI.
 Revenue Generation (B2G/B2B): Providing cloud capacity and services to regional state and municipal structures.
 Risk Mitigation: Eliminating corruption risks and grade manipulation through the Single Source of Truth principle and full audit trails.
 Security Level

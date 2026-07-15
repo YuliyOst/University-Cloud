@@ -4,7 +4,7 @@ StatusSecurityArchitecture
 Proprietary architecture for a secure university and regional cloud.
 
 🎥 Project Presentation
-▶️ Watch Video
+▶️ [Watch Video](https://youtu.be/QTX6tXEcpQ0)
 
 Business Essence
 Transforming the university's non-functional assets into a highly profitable dual-purpose facility:

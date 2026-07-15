@@ -5,7 +5,7 @@ Proprietary architecture for a secure university and regional cloud.
 Technical implementation and security configurations are not disclosed for security reasons.
 
 🎥 Project Presentation
-👉 Watch the interactive video [walkthrough](https://youtu.be/QTX6tXEcpQ0))]
+👉 Watch the interactive video [walkthrough](https://youtu.be/QTX6tXEcpQ0)]
 
 Business Essence
 Transforming the university's non-functional assets (basement premises) into a highly profitable dual-purpose facility:
